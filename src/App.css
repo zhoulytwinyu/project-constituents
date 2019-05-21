@@ -1,0 +1,22 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+}
+
+.app-subcontainer {
+  width: 80%;
+}
+
+.app-header {
+  background-color: #333333;
+  color: white;
+}
+
+.app-header a, .app-footer a{
+  color: silver;
+}
+
+.app-footer {
+  background-color: #333333;
+  color: white;
+}
